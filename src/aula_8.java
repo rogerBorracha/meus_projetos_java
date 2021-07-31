@@ -4,6 +4,7 @@ public class aula_8 {
 
 	//Faça um algoritmo que receba um número pelo usuário e imprime na tela a tabuada
 	//desse numero
+	// MAIS UM COMENTARIO SEM MALDADE
 
 	public static void main(String[] args) {
 		Scanner teclado = new Scanner (System.in);

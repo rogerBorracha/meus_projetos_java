@@ -6,7 +6,7 @@ public class aula_4 {
 	 *“conceito” e faça que ela receba o valor de “aprovado” caso a nota seja maior 
 	 *ou igual a 5, e “reprovado” caso a nota seja inferior a 5.	 
 	Imprimir o valor da variável “nota” na tela.*/
-
+//MAIS UM COMENTARIO
 
 	public static void main(String[] args) {
 	int nota = 7;
